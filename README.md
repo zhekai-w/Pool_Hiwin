@@ -22,7 +22,7 @@ See the [ubuntu-docker](https://github.com/errrr0501/ubuntu20.04_docker) on info
 # go to your workspace/src
 cd ~<your_workspace>/src
 # clone this repository with libmodus
-git clone --recurse-submodules https://github.com/zhekai-w/ROS2_ws.git
+git clone --recurse-submodules https://github.com/zhekai-w/Pool_Hiwin.git
 
 git clone https://github.com/errrr0501/ros2_aruco.git
 
