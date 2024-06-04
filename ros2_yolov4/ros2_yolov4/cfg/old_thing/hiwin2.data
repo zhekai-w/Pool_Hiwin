@@ -1,0 +1,4 @@
+train=../hiwin2/cfg/train.txt
+valid=../hiwin2/cfg/val.txt
+names=/home/oscaryang/hiwin_BilliardBall/src/libmodbus_ROS/src/My_test/cfg/hiwin2.names
+backup=../hiwin2/cfg/weights

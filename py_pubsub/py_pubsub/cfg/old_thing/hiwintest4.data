@@ -1,0 +1,5 @@
+classes=4
+train=../hiwintest4/cfg/train.txt
+valid=../hiwintest4/cfg/val.txt
+names=/home/oscaryang/hiwin_BilliardBall/src/libmodbus_ROS/src/My_test/cfg/hiwintest4.names
+backup=../hiwintest4/cfg/weights

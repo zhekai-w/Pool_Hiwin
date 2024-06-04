@@ -1,0 +1,5 @@
+classes=2
+train=../hiwin_C_WDA_v4/cfg/train.txt
+valid=../hiwin_C_WDA_v4/cfg/val.txt
+names=../hiwin_C_WDA_v4/cfg/hiwin_C_WDA_v4.names
+backup=../hiwin_C_WDA_v4/cfg/weights

@@ -1,0 +1,4 @@
+train=../hiwin_C_WDA/cfg/train.txt
+valid=../hiwin_C_WDA/cfg/val.txt
+names=/home/oscaryang/hiwin_BilliardBall/src/libmodbus_ROS/src/My_test/cfg/hiwin_C_WDA.names
+backup=../hiwin_C_WDA/cfg/weights

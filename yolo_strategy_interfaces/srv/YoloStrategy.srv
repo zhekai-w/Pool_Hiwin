@@ -1,0 +1,7 @@
+# request 
+uint8 send_position
+float64[] update_position
+---
+float64[] current_position
+uint8 obstacle_flag
+uint8 lucky_flag
