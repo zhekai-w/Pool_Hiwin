@@ -1,3 +1,12 @@
 [submodule "Hiwin_libmodbus"]
 	path = Hiwin_libmodbus
 	url = https://github.com/tku-iarc/Hiwin_libmodbus.git
+[submodule "hand-eye-calibration_ROS2"]
+	path = hand-eye-calibration_ROS2
+	url = https://github.com/errrr0501/hand-eye-calibration_ROS2.git
+[submodule "ros2_aruco"]
+	path = ros2_aruco
+	url = https://github.com/errrr0501/ros2_aruco.git
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
